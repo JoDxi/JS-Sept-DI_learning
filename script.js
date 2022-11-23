@@ -25,8 +25,8 @@
 //
 // console.log(sentence.join(" "))
 
-let str1 = "mix";
-let str2 = "pod";
+// let str1 = "mix";
+// let str2 = "pod";
 
 // console.log(str1.slice(0,2))
 // console.log(str2.slice(0,2))
@@ -62,9 +62,9 @@ let str2 = "pod";
 //         console.log('Sorry, we are out of ' + fruit + '.');// }
 
 
-let x = 7
-let y = 25;
-let g = 3
+// let x = 7
+// let y = 25;
+// let g = 3
 
 // if (x > y && x > g) {
 //     console.log("x is bigger")
@@ -74,14 +74,19 @@ let g = 3
 //     console.log("g is bigger")
 // }
 
-if (x > y) {
-    if (x > g) {
-        console.log("x is bigger")
-    } else {
-        console.log("g is bigger")
-    }
-} else if (y > g) {
-    console.log(" y is bigger")
-} else {
-    console.log("g is bigger")
-}
+// if (x > y) {
+//     if (x > g) {
+//         console.log("x is bigger")
+//     } else {
+//         console.log("g is bigger")
+//     }
+// } else if (y > g) {
+//     console.log(" y is bigger")
+// } else {
+//     console.log("g is bigger")
+// }
+
+
+let x = 7;
+
+console.log(x)
